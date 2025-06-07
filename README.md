@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 <h> this is changes in feature1 </h>
 
-## this is new feature for second(button20)
+## this is new feature for second(button)
 ## dddasdfsdnfdmsngvdf,mbgnmds, fvnbaadded a button in main
 
 ```bash
