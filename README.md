@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 <h> this is changes in feature1 </h>
-First, run the development server:
+
+## this is new feature for second(button20)
+## dddasdfsdnfdmsngvdf,mbgnmds, fvnbaadded a button in main
 
 ```bash
 npm run dev
